@@ -5,9 +5,9 @@
 
 body {
     background-color: #d5e1ef;
-    display: flex;
-    justify-content: center;
-    margin-top:5.5rem;
+    display: grid;
+    margin-top: 5.5rem;
+    place-content: center;
 }
 
 .container {
@@ -38,13 +38,29 @@ body {
     color: #878f9e;
     font-family: 'Poppins', sans-serif;
 }
+
+.footer {
+    text-align: center;
+    margin-top: 1rem;
+    color: #878f9e;
+}
+
+a{
+    text-decoration: none;
+    color: #878f9e;
+}
+
+a:hover{
+    color: black;
+}
+
 @media (max-width:280px){
 .container{
-    width: 14rem;
+    width: 15rem;
 }
 
     .container> img {
-        width: 14rem;
+        width: 15rem;
     }
 
     .text-area > h2 {
