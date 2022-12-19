@@ -33,8 +33,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/EMA-Wolf/QR-Code-Frontend-mentor)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/EMA-Wolf/QR-Code-Frontend-mentor)
+- Live Site URL: [Live site URL](https://qrcoderoom.netlify.app/)
 
 ## My process
 
